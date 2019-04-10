@@ -1,13 +1,14 @@
-def my_collect(collections)
+d# def my_collect(array)
+#   new_arr = [] 
   
- new = []
-  while i < collections.length
-   new.push
-    yield(collections[i])
-   
-    i = i + 1
-  end
- 
- new
-  end
-
+#   i=0 
+#   while i < array.length 
+#   new_arr.push yield(array[i])
+#   i += 1 
+# end 
+#   # for element in array 
+#   #   new_arr.push yield element 
+#   # end 
+  
+#   new_arr
+# end 
