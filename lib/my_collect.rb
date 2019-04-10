@@ -7,7 +7,8 @@
    i += 1 
  end 
 for element in array 
- new_arr.push yield element    end 
+ new_arr.push yield element  
+ end 
   
   new_arr
  end 
